@@ -11,7 +11,8 @@ export default {
       fontFamily: {
         serif: [ "'Lora', serif", ...defaultTheme.fontFamily.serif ],
         sans: [ "'Montserrat', sans-serif", ...defaultTheme.fontFamily.sans ],
-        mono: [ "'DM Mono', monospace", ...defaultTheme.fontFamily.mono ]
+        mono: [ "'DM Mono', monospace", ...defaultTheme.fontFamily.mono ],
+        bebas:"'Bebas Neue', sans-serif;"
       }
     },
   },
